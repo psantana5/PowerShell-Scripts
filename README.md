@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>PowerShell-Scripts</title>
-</head>
 <body>
   <h1>PowerShell-Scripts 🖥️</h1>
   
